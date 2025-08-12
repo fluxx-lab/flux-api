@@ -1,0 +1,7 @@
+[project]
+name = "flux-api"
+version = "0.1.0"
+description = "API for Fluxx lab"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["fastapi[standard]>=0.116.1"]
