@@ -11,3 +11,6 @@ wheels/
 
 # Rope
 .ropeproject
+
+# Environments file
+.env
